@@ -1,2 +1,2 @@
 # mapty-oop
-Workout app
+Workout app with OOP
